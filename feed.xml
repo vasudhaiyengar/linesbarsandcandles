@@ -3,10 +3,46 @@
     <title>Lines Bars and Candles</title>
     <link href="https://vasudhaiyengar.github.io/linesbarsandcandles/feed.xml" rel="self" />
     <link href="https://vasudhaiyengar.github.io/linesbarsandcandles" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2026-10-27T22:26:45+05:30</updated>
     <author>
         <name>Vasudha Iyengar</name>
     </author>
     <id>https://vasudhaiyengar.github.io/linesbarsandcandles</id>
 
+    <entry>
+        <title>27.10.2026</title>
+        <author>
+            <name>Vasudha Iyengar</name>
+        </author>
+        <link href="https://vasudhaiyengar.github.io/linesbarsandcandles/27102026.html"/>
+        <id>https://vasudhaiyengar.github.io/linesbarsandcandles/27102026.html</id>
+
+        <updated>2026-10-27T22:26:45+05:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--full">
+      <img loading="lazy" src="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/2/CNXIT.png" height="900" width="1800" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/2/responsive/CNXIT-xs.png 300w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/2/responsive/CNXIT-sm.png 480w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/2/responsive/CNXIT-md.png 768w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/2/responsive/CNXIT-lg.png 1024w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Weekly Sectoral Glance 27.10.2026</title>
+        <author>
+            <name>Vasudha Iyengar</name>
+        </author>
+        <link href="https://vasudhaiyengar.github.io/linesbarsandcandles/weekly-sectoral-glance-27102026.html"/>
+        <id>https://vasudhaiyengar.github.io/linesbarsandcandles/weekly-sectoral-glance-27102026.html</id>
+
+        <updated>2026-10-27T22:12:38+05:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--full align-left"><img loading="lazy"  src="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/1/Screenshot-2026-10-27-at-9.22.04-PM-2.png" alt="Indian Sectors RRG 27.10.2026" width="2876" height="1507" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/1/responsive/Screenshot-2026-10-27-at-9.22.04-PM-2-xs.png 300w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/1/responsive/Screenshot-2026-10-27-at-9.22.04-PM-2-sm.png 480w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/1/responsive/Screenshot-2026-10-27-at-9.22.04-PM-2-md.png 768w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/1/responsive/Screenshot-2026-10-27-at-9.22.04-PM-2-lg.png 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
