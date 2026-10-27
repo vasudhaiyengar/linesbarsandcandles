@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Lines Bars and Candles",
+    "description": "",
+    "home_page_url": "https://vasudhaiyengar.github.io/linesbarsandcandles",
+    "feed_url": "https://vasudhaiyengar.github.io/linesbarsandcandles/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Vasudha Iyengar"
+    },
+    "items": [
+    ]
+}
