@@ -3,7 +3,7 @@
     <title>Lines Bars and Candles</title>
     <link href="https://vasudhaiyengar.github.io/linesbarsandcandles/feed.xml" rel="self" />
     <link href="https://vasudhaiyengar.github.io/linesbarsandcandles" />
-    <updated>2026-10-28T22:12:13+05:30</updated>
+    <updated>2026-10-28T22:14:43+05:30</updated>
     <author>
         <name>Vasudha Iyengar</name>
     </author>
@@ -27,21 +27,15 @@
         <content type="html">
             <![CDATA[
                 
-  <div  class="gallery-wrapper gallery-wrapper--full">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/7/gallery/DRREDDY.IN.png" data-size="1800x900">
-        <img loading="lazy" src="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/7/gallery/DRREDDY.IN-thumbnail.png" height="384" width="768" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/7/gallery/Screenshot-2026-10-28-at-10.01.19-PM.png" data-size="1318x1856">
-        <img loading="lazy" src="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/7/gallery/Screenshot-2026-10-28-at-10.01.19-PM-thumbnail.png" height="1081" width="768" alt="" >
-      </a>
+    <figure class="post__image post__image--full">
+      <img loading="lazy" src="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/7/DRREDDY.IN-2.png" height="900" width="1800" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/7/responsive/DRREDDY.IN-2-xs.png 300w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/7/responsive/DRREDDY.IN-2-sm.png 480w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/7/responsive/DRREDDY.IN-2-md.png 768w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/7/responsive/DRREDDY.IN-2-lg.png 1024w">
       
     </figure>
-    </div>
-  </div>
+
+    <figure class="post__image post__image--full">
+      <img loading="lazy" src="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/7/Screenshot-2026-10-28-at-10.01.19-PM.png" height="1856" width="1318" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/7/responsive/Screenshot-2026-10-28-at-10.01.19-PM-xs.png 300w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/7/responsive/Screenshot-2026-10-28-at-10.01.19-PM-sm.png 480w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/7/responsive/Screenshot-2026-10-28-at-10.01.19-PM-md.png 768w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/7/responsive/Screenshot-2026-10-28-at-10.01.19-PM-lg.png 1024w">
+      
+    </figure>
 
   <p>
     AI can be blabbering and trying please me, but it still is an interesting point.
