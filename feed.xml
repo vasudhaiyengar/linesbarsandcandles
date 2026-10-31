@@ -3,7 +3,7 @@
     <title>Lines Bars and Candles</title>
     <link href="https://vasudhaiyengar.github.io/linesbarsandcandles/feed.xml" rel="self" />
     <link href="https://vasudhaiyengar.github.io/linesbarsandcandles" />
-    <updated>2026-10-31T16:57:39+05:30</updated>
+    <updated>2026-10-31T16:59:19+05:30</updated>
     <author>
         <name>Vasudha Iyengar</name>
     </author>
@@ -19,7 +19,11 @@
             <category term="October 2026"/>
 
         <updated>2026-10-31T16:56:35+05:30</updated>
-            <summary></summary>
+            <summary type="html">
+                <![CDATA[
+                    Not the best fundamentally keeping ROE and Profit in mind.
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 
@@ -37,10 +41,9 @@
       
     </figure>
 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="" height="" width="" alt=""  data-is-external-image="true">
-      
-    </figure>
+  <p>
+    Not the best fundamentally keeping ROE and Profit in mind.
+  </p>
             ]]>
         </content>
     </entry>
