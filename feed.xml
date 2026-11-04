@@ -3,7 +3,7 @@
     <title>Lines Bars and Candles</title>
     <link href="https://vasudhaiyengar.github.io/linesbarsandcandles/feed.xml" rel="self" />
     <link href="https://vasudhaiyengar.github.io/linesbarsandcandles" />
-    <updated>2026-11-04T23:52:35+05:30</updated>
+    <updated>2026-11-04T23:56:59+05:30</updated>
     <author>
         <name>Vasudha Iyengar</name>
     </author>
@@ -24,7 +24,16 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/14/04.11.-2026-CNL.png" height="1056" width="2460" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/14/responsive/04.11.-2026-CNL-xs.png 300w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/14/responsive/04.11.-2026-CNL-sm.png 480w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/14/responsive/04.11.-2026-CNL-md.png 768w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/14/responsive/04.11.-2026-CNL-lg.png 1024w">
+      <a href="https://vasudhaiyengar.github.io/linesbarsandcandles/04.11.2026 CNL.IN.png">
+        <img loading="lazy" src="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/14/04.11.2026-CNL.IN.png" height="900" width="1800" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/14/responsive/04.11.2026-CNL.IN-xs.png 300w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/14/responsive/04.11.2026-CNL.IN-sm.png 480w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/14/responsive/04.11.2026-CNL.IN-md.png 768w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/14/responsive/04.11.2026-CNL.IN-lg.png 1024w">
+      </a>
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <a href="https://vasudhaiyengar.github.io/linesbarsandcandles/04.11. 2026 CNL.IN.png">
+        <img loading="lazy" src="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/14/04.11.-2026-CNL.IN.png" height="1056" width="2460" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/14/responsive/04.11.-2026-CNL.IN-xs.png 300w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/14/responsive/04.11.-2026-CNL.IN-sm.png 480w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/14/responsive/04.11.-2026-CNL.IN-md.png 768w ,https://vasudhaiyengar.github.io/linesbarsandcandles/media/posts/14/responsive/04.11.-2026-CNL.IN-lg.png 1024w">
+      </a>
       
     </figure>
             ]]>
